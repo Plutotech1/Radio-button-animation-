@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="1.jpeg" width="49%">
+        <img src="https://github.com/Plutotech1/Radio-button-animation-/blob/main/RPReplay_Final1717359138.mov" width="100%">
     </div>
 </div>
 <br /><br />
